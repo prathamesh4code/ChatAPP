@@ -1,0 +1,17 @@
+To Run the project:
+In server directory ->
+    Run command: npm run dev
+
+in client directory ->
+    Run command: npm start
+
+Test user:
+Email id: test@test.com
+Password: Test
+
+Other accounts:
+prath@prath.com
+rushi@rushi.com
+user@user.com
+user2@user2.com
+vinit@vinit.com
